@@ -1,0 +1,48 @@
+.h1 {
+  
+    font-style: italic;
+    text-align: center;
+    
+}
+.body{
+    background-color: #DCDCDC;
+    ;
+}
+.rbt img{
+    display: block;
+    margin:0 auto;
+    width:70%;
+    
+
+}
+
+.rbt {
+    background-color: white;
+    text-align: center;
+    margin-left:20px;
+    margin-right:20px ;
+}
+.tm{
+    font-weight: bold;
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+.rbt p {
+margin-bottom: 100px;
+}
+.tm p {
+margin-top: -40px;
+}
+.who{
+    justify-content: center;
+  display: flex;
+  margin-left: 180px;
+}
+.ss{
+    justify-content: center;
+  display: flex;
+  margin-left: -200px;
+}
+
